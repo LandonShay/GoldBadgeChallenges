@@ -1,0 +1,11 @@
+C:\Users\Landon\source\repos\GoldBadgeChallenges\04_Outings.UI\bin\Debug\04_Outings.UI.exe.config
+C:\Users\Landon\source\repos\GoldBadgeChallenges\04_Outings.UI\bin\Debug\04_Outings.UI.exe
+C:\Users\Landon\source\repos\GoldBadgeChallenges\04_Outings.UI\bin\Debug\04_Outings.UI.pdb
+C:\Users\Landon\source\repos\GoldBadgeChallenges\04_Outings.UI\bin\Debug\ClassLibrary1.dll
+C:\Users\Landon\source\repos\GoldBadgeChallenges\04_Outings.UI\bin\Debug\ClassLibrary1.pdb
+C:\Users\Landon\source\repos\GoldBadgeChallenges\04_Outings.UI\obj\Debug\04_Outings.UI.csproj.AssemblyReference.cache
+C:\Users\Landon\source\repos\GoldBadgeChallenges\04_Outings.UI\obj\Debug\04_Outings.UI.csproj.SuggestedBindingRedirects.cache
+C:\Users\Landon\source\repos\GoldBadgeChallenges\04_Outings.UI\obj\Debug\04_Outings.UI.csproj.CoreCompileInputs.cache
+C:\Users\Landon\source\repos\GoldBadgeChallenges\04_Outings.UI\obj\Debug\04_Outings.UI.csproj.CopyComplete
+C:\Users\Landon\source\repos\GoldBadgeChallenges\04_Outings.UI\obj\Debug\04_Outings.UI.exe
+C:\Users\Landon\source\repos\GoldBadgeChallenges\04_Outings.UI\obj\Debug\04_Outings.UI.pdb

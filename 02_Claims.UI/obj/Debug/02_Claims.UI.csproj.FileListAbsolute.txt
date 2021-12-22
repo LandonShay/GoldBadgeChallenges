@@ -1,0 +1,11 @@
+C:\Users\Landon\source\repos\GoldBadgeChallenges\02_Claims.UI\bin\Debug\02_Claims.UI.exe.config
+C:\Users\Landon\source\repos\GoldBadgeChallenges\02_Claims.UI\bin\Debug\02_Claims.UI.exe
+C:\Users\Landon\source\repos\GoldBadgeChallenges\02_Claims.UI\bin\Debug\02_Claims.UI.pdb
+C:\Users\Landon\source\repos\GoldBadgeChallenges\02_Claims.UI\bin\Debug\02_Claims.Repository.dll
+C:\Users\Landon\source\repos\GoldBadgeChallenges\02_Claims.UI\bin\Debug\02_Claims.Repository.pdb
+C:\Users\Landon\source\repos\GoldBadgeChallenges\02_Claims.UI\obj\Debug\02_Claims.UI.csproj.AssemblyReference.cache
+C:\Users\Landon\source\repos\GoldBadgeChallenges\02_Claims.UI\obj\Debug\02_Claims.UI.csproj.SuggestedBindingRedirects.cache
+C:\Users\Landon\source\repos\GoldBadgeChallenges\02_Claims.UI\obj\Debug\02_Claims.UI.csproj.CoreCompileInputs.cache
+C:\Users\Landon\source\repos\GoldBadgeChallenges\02_Claims.UI\obj\Debug\02_Claims.UI.csproj.CopyComplete
+C:\Users\Landon\source\repos\GoldBadgeChallenges\02_Claims.UI\obj\Debug\02_Claims.UI.exe
+C:\Users\Landon\source\repos\GoldBadgeChallenges\02_Claims.UI\obj\Debug\02_Claims.UI.pdb

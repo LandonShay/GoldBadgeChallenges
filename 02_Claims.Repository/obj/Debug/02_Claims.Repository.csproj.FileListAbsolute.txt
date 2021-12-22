@@ -1,0 +1,6 @@
+C:\Users\Landon\source\repos\GoldBadgeChallenges\02_Claims.Repository\bin\Debug\02_Claims.Repository.dll
+C:\Users\Landon\source\repos\GoldBadgeChallenges\02_Claims.Repository\bin\Debug\02_Claims.Repository.pdb
+C:\Users\Landon\source\repos\GoldBadgeChallenges\02_Claims.Repository\obj\Debug\02_Claims.Repository.csproj.AssemblyReference.cache
+C:\Users\Landon\source\repos\GoldBadgeChallenges\02_Claims.Repository\obj\Debug\02_Claims.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Landon\source\repos\GoldBadgeChallenges\02_Claims.Repository\obj\Debug\02_Claims.Repository.dll
+C:\Users\Landon\source\repos\GoldBadgeChallenges\02_Claims.Repository\obj\Debug\02_Claims.Repository.pdb
